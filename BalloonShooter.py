@@ -1,18 +1,6 @@
 # -----------------------------------------------------------------------------
 #
 # Balloon Shooter
-# Language - Python
-# Modules - pygame, sys, random, math 
-#
-# Controls - Mouse
-#
-# By - Jatin Kumar Mandav
-#
-# Website - https://jatinmandav.wordpress.com
-#
-# YouTube Channel - https://www.youtube.com/channel/UCdpf6Lz3V357cIZomPwjuFQ
-# Twitter - @jatinmandav
-#
 # -----------------------------------------------------------------------------
 
 import pygame
